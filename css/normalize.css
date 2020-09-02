@@ -43,7 +43,7 @@ template {
   display: none;
 }
 body {
-  background-color: #feca1d;
+  background-color: transparent;
 }
 a:active,
 a:hover {
@@ -281,7 +281,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #feca1d;
 }
 input,
 button,
