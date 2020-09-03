@@ -280,7 +280,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
+  color: black;
   background-color: #FFEFD5;
 }
 input,
@@ -297,7 +297,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: black;
   text-decoration: underline;
 }
 a:focus {
