@@ -297,7 +297,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: black;
+  color: #CD853F;
   text-decoration: underline;
 }
 a:focus {
@@ -5985,4 +5985,6 @@ button.close {
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
   display: none;
+}
+
 }
