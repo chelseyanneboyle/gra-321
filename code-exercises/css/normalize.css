@@ -10,7 +10,7 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
+  margin: 3em;
 }
 article,
 aside,
@@ -42,7 +42,7 @@ audio:not([controls]) {
 template {
   display: none;
 }
-a {
+body {
   background-color: transparent;
 }
 a:active,
@@ -280,8 +280,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
-  background-color: #fff;
+  color: black;
+  background-color: #FFEFD5;
 }
 input,
 button,
@@ -297,7 +297,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #CD853F;
   text-decoration: underline;
 }
 a:focus {
@@ -5951,4 +5951,3 @@ button.close {
     display: none !important;
   }
 }
-/*# sourceMappingURL=bootstrap.css.map */
