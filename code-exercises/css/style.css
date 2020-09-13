@@ -14,8 +14,7 @@ button {
 
 
  .container {
-   background-image: url(https://images.unsplash.com/photo-1589362151622-9c526491413a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=941&q=80);
-   background-size: cover;
+   background color: red;
    height:700px;
    margin: 0 auto;
    width:30%;
