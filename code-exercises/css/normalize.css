@@ -10,26 +10,8 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
-  margin: 3em;
+  margin: 0;
 }
-
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-.topnav a:hover {
-  background-color: none;
-  color: none;
-  text-decoration: none;
-}
-
-
 article,
 aside,
 details,
@@ -60,7 +42,7 @@ audio:not([controls]) {
 template {
   display: none;
 }
-body {
+a {
   background-color: transparent;
 }
 a:active,
@@ -298,8 +280,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: black;
-  background-color: #FFEFD5;
+  color: #333;
+  background-color: #fff;
 }
 input,
 button,
@@ -315,7 +297,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: none;
+  color: #23527c;
   text-decoration: underline;
 }
 a:focus {
@@ -5969,14 +5951,4 @@ button.close {
     display: none !important;
   }
 }
-
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
-/* -------------------- */
+/*# sourceMappingURL=bootstrap.css.map */

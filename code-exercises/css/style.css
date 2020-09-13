@@ -1,14 +1,31 @@
- button {
-   background-color:blue;
-   border:none;
-   color:yellow;
-   font-family:Arial, sans-serif;
-   text-transform:uppercase;
-   padding:1em 2em 1em 2em;
-
- }
+button {
+  background-color:pink;
+  border: none;
+  color:black;
+  font-family:Arial, sans-serif;
+  text-transform: uppercase;
+  padding: 1em 2em 1em 2em;
+}
 
  .color-hover:hover {
    background-color:pink;
    text-decoration: underline;
+ }
+
+
+ .container {
+   background-image: url(https://images.unsplash.com/photo-1589362151622-9c526491413a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=941&q=80);
+   background-size: cover;
+   height:700px;
+   margin: 0 auto;
+   width:50%;
+
+ }
+
+ h1 {
+   color: #fff;
+   font-size:52px;
+   position:relative;
+   text-align:left;
+
  }
