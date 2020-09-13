@@ -644,7 +644,7 @@ dt {
   font-weight: bold;
 }
 dd {
-  margin-left: 0;
+  margin-left: 10;
 }
 @media (min-width: 768px) {
   .dl-horizontal dt {
