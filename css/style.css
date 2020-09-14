@@ -1,6 +1,30 @@
-* {
-
+body {
+  background-color: #F6F3E7;
 }
+p {
+  font-family: Arial, sans-serif;
+  font-size:52px;
+  font-weight:500;
+  text-align:center;
+  width: 100%;
+  margin: 0 auto;
+  top: 65px;
+  position:relative;
+}
+
+/*---Media Queries---*/
+@media screen and (max-width: 1000px) {
+  body {
+    background-color:#E3D7BD;
+}
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: #947E6C;
+}
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #FFEFD5;
