@@ -16,13 +16,13 @@ p {
 /*---Media Queries---*/
 @media screen and (max-width: 1000px) {
   body {
-    background-color: #EBE6D9;
+    background-color:#E3D7BD;
 }
 }
 
 @media screen and (max-width: 500px) {
   body {
-    background-color: MediumSeaGreen;
+    background-color: #947E6C;
 }
 }
 
@@ -100,35 +100,5 @@ button {
 
 .btn1:hover::before{
   width: 100%;
-}
-}
-
-
-
-/*---Default Styling ---*/
-body {
-  background-color: SkyBlue;
-}
-p {
-  font-family: Arial, sans-serif;
-  font-size:52px;
-  font-weight:500;
-  text-align:center;
-  width: 100%;
-  margin: 0 auto;
-  top: 65px;
-  position:relative;
-}
-
-/*---Media Queries---*/
-@media screen and (max-width: 1000px) {
-  body {
-    background-color: LightSalmon;
-}
-}
-
-@media screen and (max-width: 500px) {
-  body {
-    background-color: MediumSeaGreen;
 }
 }
