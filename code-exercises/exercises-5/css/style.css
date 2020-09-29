@@ -37,7 +37,7 @@ h6 {
 	display: grid;
 	grid-template-columns: 370px 932px;
 	
-	grid-column-gap: 59px;
+	grid-column-gap: 69px;
 	
 
 }
@@ -50,7 +50,7 @@ h6 {
 
 #grid-2 {
 	padding-bottom: 18px;
-	padding-top: 76px
+	padding-top: 76px;
 
 	
 	
