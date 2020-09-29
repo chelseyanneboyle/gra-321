@@ -62,8 +62,14 @@ h6 {
 }
 
 #grid-4 {
-	padding-bottom: 90px;
+	padding-bottom: 36px;
 	
 	
-	
+}
+
+
+.footer {
+	padding-left: 1120px;
+	word-spacing: 108px;
+	padding-bottom: 33px;
 }
