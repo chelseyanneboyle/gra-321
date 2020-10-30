@@ -2,52 +2,45 @@ body {
 }
 p {
   font-family: Libre Franklin, sans-serif;
-  font-size:52px;
+  font-size:16px;
 	font-color: blue;
-  text-align:center;
+  text-align:left;
   width: 100%;
   margin: 0 auto;
   top: 65px;
   position:relative;
-	padding-left: 20px;
 }
 body {
   width: 660px;
 	background: #fff;
   margin: auto;
 }
+h1{
+	font-size:52px;
+	font-family: Libre Franklin, sans-serif
+}
 .col1 {
-  width: 170px;
+  width: 180px;
   height: 50px;
-  padding-left: 20px;
+  padding: 0px;
   margin-bottom: 10px;
   float: left;
 }
 .col2 {
-  width: 70px;
-	height: 520px;
+  width: 80px;
+	height: 480px;
   padding: 0px;
   margin-bottom: 10px;
   float: left;
 	font-color:blue;
 }
 .col3 {
-  width: 70px;
-	height: 50px;
+  width: 100px;
+	height: 480px;
   padding: 0px;
   margin-bottom: 10px;
   float: left;
 	font-color:blue;
-}
-
-.col4 {
-  width: 170px;
-	height: 50px;
-  padding: 0px;
-  margin-bottom: 10px;
-  float: left;
-	font-color:blue;
-}
 
 
 
