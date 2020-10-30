@@ -1,62 +1,40 @@
 body {
-  background-color: #F6F3E7;
 }
 p {
-  font-family: Arial, sans-serif;
+  font-family: Libre Franklin, sans-serif;
   font-size:52px;
-  font-weight:500;
+	font-color: blue;
   text-align:center;
   width: 100%;
   margin: 0 auto;
   top: 65px;
   position:relative;
 }
-
-/*---Media Queries---*/
-@media screen and (max-width: 1000px) {
-  body {
-    background-color:#E3D7BD;
+body {
+  width: 660px;
+	background: #fff;
+  margin: auto;
 }
-}
-
-@media screen and (max-width: 500px) {
-  body {
-    background-color: #947E6C;
-}
-}
-
-/* Add a black background color to the top navigation */
-.topnav {
-  background-color: #FFEFD5;
-  overflow: hidden;
-}
-
-/* Style the links inside the navigation bar */
-.topnav a {
+.col1 {
+  width: 300px;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 10px;
   float: left;
-  display: block;
-  color: #000000;
-  text-align: left;
-  padding: 10px 10px;
-  text-decoration: none;
-  font-size: 17px;
+}
+.col2 {
+  width: 300px;
+	height: 50px;
+  padding: 10px;
+  margin-bottom: 10px;
+  float: left;
+	font-color:blue;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #yellow;
-  color: #CD853F;
-}
 
-/* Add an active class to highlight the current page */
-.topnav a.active {
-  background-color: #FFEFD5;
-  color: black;
-}
 
-/* Hide the link that should open and close the topnav on small screens */
-.topnav .icon {
-  display: none;
-h1 {
 
-}
+
+
+
+
