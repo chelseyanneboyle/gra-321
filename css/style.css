@@ -38,7 +38,7 @@ p {
 		grid-template-columns: 60% 60% 60%;
 		grid-column-gap: 1px;
 		position:relative;
-		padding-left: 50px;
+		padding-left: 40px;
 		}
 
 
@@ -72,14 +72,18 @@ p {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding-left: 10px;
+margin-left: 30px;
+	margin-right: 40px;
+
 }
 
 /* Create four equal columns that sits next to each other */
 .column {
   flex: 25%;
-  max-width: 35%;
-  padding: 0 40px;
+  max-width: 100%;
+	padding-left: 10px;
+	column-gap: 10px;
 }
 
 .column img {
